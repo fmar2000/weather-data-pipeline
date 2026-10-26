@@ -1,0 +1,5 @@
+city,temperature,feels_like,humidity,weather_condition,timestamp
+London,13.43,12.92,80,broken clouds,2026-10-01 23:01:07
+London,20.21,19.8,58,scattered clouds,2026-10-02 11:58:38
+London,20.95,20.48,53,few clouds,2026-10-02 13:11:41
+London,20.62,20.1,52,clear sky,2026-10-02 15:29:13
